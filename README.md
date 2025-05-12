@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Andrés Salazar
+# 👋 ¡Hola! Soy Annabella Sánchez
 
-Bienvenido a mi repositorio personal. Soy un entusiasta de la ciencia de datos y el desarrollo web. Aquí encontrarás una colección de proyectos personales, colaborativos y académicos que representan mi crecimiento como profesional.
+Bienvenido a mi repositorio personal. Soy una entusiasta de la ciencia de datos y el desarrollo web. Aquí encontrarás una colección de proyectos personales, colaborativos y académicos que representan mi crecimiento como profesional.
 
 ---
 
@@ -18,7 +18,7 @@ Bienvenido a mi repositorio personal. Soy un entusiasta de la ciencia de datos y
 
 ## 💡 Sobre Mí
 
-Soy estudiante apasionada por la tecnología, el análisis de datos y la educación. Me encanta trabajar en proyectos que combinen creatividad y utilidad social.
+Soy estudiante apasionada por la tecnología, la ciencia de datos y la educación. Me encanta trabajar en proyectos que combinen creatividad y utilidad social.
 
 - 🌱 Actualmente aprendiendo: `BI`, `React`
 - 🧠 Intereses: Visualización de datos, Educación tecnológica, Ciencia de Datos
