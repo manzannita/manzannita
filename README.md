@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Annabella Sánchez
 
-Bienvenido a mi repositorio personal. Soy una entusiasta de la ciencia de datos y el desarrollo web. Aquí encontrarás una colección de proyectos personales, colaborativos y académicos que representan mi crecimiento como profesional.
+Bienvenido a mi repositorio personal. Soy una entusiasta de la ciencia de datos y el desarrollo web. Aquí encontrarás una colección de proyectos personales, colaborativos y académicos que representan mi crecimiento como profesional
 
 ---
 
