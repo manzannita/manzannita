@@ -7,7 +7,7 @@ Aquí encontrarás una colección de proyectos personales, colaborativos y acad�
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Destacados Colaborativos con [@Jmuniz27](https://github.com/Jmuniz27)
 
 ### 🎮 Sistema de Ayuda de Mesa con Visión por Computadora
 - **Descripción**  
@@ -22,6 +22,7 @@ Aquí encontrarás una colección de proyectos personales, colaborativos y acad�
   ![Demo del juego](32955557-4e09-42e8-9474-137e0bcd30f3.jpeg)
 
 ---
+![entrada](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc20yMWZqeHhoZmR0cmQ0cGM4ZDZjNjAyOWI1amp5aDdrMTc3eHloNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DC9UZtIhRXHNGD6wp5/giphy.gif)
 
 ## 💡 Sobre Mí
 
@@ -30,7 +31,7 @@ Me encanta trabajar en proyectos que combinen creatividad y utilidad social.
 
 - 🌱 **Actualmente aprendiendo:** BI, React  
 - 🧠 **Intereses:** Visualización de datos, ML interpretability, front-end  
-- 📫 **Contáctame:** [LinkedIn](https://linkedin.com/in/annabellasanchez) · [✉️ Email](mailto:tu.email@ejemplo.com)
+- 📫 **Contáctame:** [LinkedIn](www.linkedin.com/in/annabella-sanchez) · [✉️ Email](mailto:ansaguzm@espol.edu.ec)
 
 ---
 
@@ -38,7 +39,7 @@ Me encanta trabajar en proyectos que combinen creatividad y utilidad social.
 
 | Lenguajes       | Frameworks          | BI & Análisis   | Control de versiones | Cloud & Automatización |
 |-----------------|---------------------|-----------------|----------------------|------------------------|
-| Python · Java · SQL | Matplotlib · React (básico) | Pandas · Spark | Git · GitHub         | Databricks             |
+| Python · Java · SQL |React (básico) | Pandas · Spark | Git · GitHub         | Databricks             |
 
 ---
 ![my fav <3](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl0b2thbW8weGhobHozODdmNWh3enlta2FmNGkwbXYxencyZ2FucSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JR2W4HkHxb72y4hpn6/giphy.gif)
