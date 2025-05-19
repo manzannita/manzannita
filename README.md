@@ -1,12 +1,12 @@
-![Banderin](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR3Nzl4Z2prbzFnZGIxbHUwNnR3YjRoNXIzZWlqb2xwYnNxM2xldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Qg7shagvjXyk2DVWQe/giphy.gif)
+![entrada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ5bHp5czJtem9lZWdmMTEyeWg3NzFoa3dmM3JxYnZzMmo5a2Q4NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xBoSZ8VksO4W9d7fjH/giphy.gif)
 
 # 👋 ¡Hola! Soy Annabella Sánchez
+![entrada](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ5bHp5czJtem9lZWdmMTEyeWg3NzFoa3dmM3JxYnZzMmo5a2Q4NyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xBoSZ8VksO4W9d7fjH/giphy.gif)
 
 Bienvenido a mi repositorio personal. Soy una entusiasta de la ciencia de datos y el desarrollo web.  
 Aquí encontrarás una colección de proyectos personales, colaborativos y académicos que reflejan mi crecimiento profesional.
 
 ---
-![Banderin](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3pvcTk5emgwbWJ3dzd5bHlzZnlhazQ2dTdnajIwbnJ0cGNoc3cybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TWoqKmNRDbxWRfxZXg/giphy.gif)
 
 ## 🚀 Proyectos Destacados
 
@@ -46,3 +46,6 @@ Me encanta trabajar en proyectos que combinen creatividad y utilidad social.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manzannita&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manzannita&layout=compact&theme=tokyonight&cache_seconds=86400)
+
+![salida](https://media.giphy.com/media/ZBQJSfm4Bl7flc3w99/giphy.gif?cid=ecf05e47v00jonwkrdxy9nl2cq4oj6mnshpt40jzjkcfusym&ep=v1_stickers_search&rid=giphy.gif&ct=ts)
+
